@@ -31,8 +31,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-
+        
         //finding there ids
         tv1=findViewById(R.id.tv1);
         et1=findViewById(R.id.et1);
